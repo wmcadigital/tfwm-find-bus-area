@@ -29,7 +29,7 @@
     "dompurify": "^2.2.7",
     "esri-loader": "^3.1.0",
     "fecha": "^4.2.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.1",
     "point-in-polygon": "^1.1.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
